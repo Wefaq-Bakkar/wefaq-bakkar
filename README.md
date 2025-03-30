@@ -18,14 +18,6 @@ I'm a backend developer passionate about building scalable applications, AI-powe
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-![Wefaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WefaqBakkar&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WefaqBakkar)
-
----
 
 ### 📫 Connect with Me
 - 📧 Email: **wefaq.ba@gmail.com**
