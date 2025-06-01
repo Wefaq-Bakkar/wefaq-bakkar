@@ -5,7 +5,7 @@
 I'm a backend developer passionate about building scalable applications, AI-powered solutions, and seamless user experiences.
 
 ### 🌟 About Me
-- 🎓 **Software Engineering Graduate**
+- 🎓 **Software Engineer**
 - 🔧 Specializing in **Laravel,Vue.js,My Sql and Tailwind CSS**
 
 
